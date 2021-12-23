@@ -1,2 +1,4 @@
 # DisableCySpringPlugin
  A BepInEx plugin for imascgstage
+
+CySpringPlugin.dllがCrackProofによって保護されているため、正規のimascgstage.exeを使わずに起動した際にMVを再生できない問題の回避用プラグイン
